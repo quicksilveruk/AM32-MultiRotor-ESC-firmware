@@ -11,12 +11,12 @@
 //#define MAMBA_F60PRO
 //#define WRAITH32
 //#define AIKON20X20
-//#define AIKONSINGLE
+#define AIKONSINGLE
 //#define FLYCOLOR
 //#define AM32REF
 //#define BLPWR
 //#define HVFLYCOLOR
-#define NEUTRON_G071
+//#define NEUTRON_G071
 //#define G071_64K
 //#define G071ENABLE
 //#define G071_OPEN_DRAIN
